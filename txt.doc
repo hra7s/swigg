@@ -1,0 +1,52 @@
+hooks are nothing but a normal js utility funtions 
+1. useState
+2. useEffect
+3. useRef
+4. useContext
+5. useReducer
+6. useCallback
+7. useMemo
+8. custom hooks
+## 09-customHooks
+### Custom Hooks is just like any other function, it accepts parameters and returns values as well. The only difference between them being that they can be used
+
+
+useState  is not but a hook 
+useEffect()
+
+
+let a=100 
+let [a,setA]= useState()
+
+
+
+
+useEffect(()=>{
+          fetchData()
+
+},[])
+
+
+hook is nothing but a noramal js utility funtion 
+useState 
+useEffect
+useContext
+useMemo
+useCallback
+useRef
+useReducer
+
+
+
+
+
+
+
+useEffect(()=>{
+
+},[])
+
+
+HOOKS 
+
+useState 
